@@ -1,0 +1,4 @@
+delivery_performance,order_count,percentage,avg_delivery_days
+Early,88644,92.09,10.39
+Late,6534,6.59,33.33
+On Time,1292,1.32,18.64
