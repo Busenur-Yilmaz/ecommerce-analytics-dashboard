@@ -1,8 +1,8 @@
 #  E-Commerce Analytics Dashboard
-https://www.python.org/     https://img.shields.io/badge/Python-3.8+-blue.svg
-https://pandas.pydata.org/   https://img.shields.io/badge/Pandas-2.1+-green.svg
-https://powerbi.microsoft.com/     https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg
-https://www.sqlite.org/       https://img.shields.io/badge/SQLite-3-orange.svg
+https://img.shields.io/badge/Python-3.8+-blue.svg
+https://img.shields.io/badge/Pandas-2.1+-green.svg
+https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg
+https://img.shields.io/badge/SQLite-3-orange.svg
 
 ## Proje Hakkında
 Bu proje, Brazilian E-Commerce Public Dataset (Olist) kullanılarak Python, SQL ve Power BI ile end-to-end veri analizi ve görselleştirme çalışmasıdır. Proje, veri mühendisliği, veri bilimi ve iş zekası (BI) süreçlerinin tamamını kapsar.
